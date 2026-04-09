@@ -36,13 +36,13 @@ public class StudentEntity {
     public void setId(Long Id){
         this.Id=Id;
     }
-    public void setName(String Name){
+    public void setName(String name){
         this.name=name;
     }
     public void setAge(int age){
         this.age=age;
     }
-    public void setEmail(String Email){
+    public void setEmail(String email){
         this.email=email;
     }
 }
